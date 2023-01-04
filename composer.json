@@ -1,0 +1,19 @@
+{
+    "name": "mullayam/lite-qual",
+    "type": "library",
+    "license": "Open Source",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./",
+            "Mullayam\\LiteQual\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mulayam"
+        }
+    ],
+    "minimum-stability": "RC",
+    
+    "require": {}
+}
